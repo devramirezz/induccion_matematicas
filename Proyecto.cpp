@@ -82,6 +82,7 @@ void algodivicion()
 	
 	cout <<"MANENIMIENTO";
 	
+	getch();
 
 }
 	
@@ -142,8 +143,8 @@ void menu ()
 	
 	system ("cls");
 	cout << "1. PRODUCTO DE FACTORES PRIMOS" <<endl;
-	cout << "2. MÁXIMO COMÚN DIVISOR" <<endl;
-	cout << "3. ALGORITMO DE LA DIVISIÓN" <<endl;
+	cout << "2. MÃXIMO COMÃšN DIVISOR" <<endl;
+	cout << "3. ALGORITMO DE LA DIVISIÃ“N" <<endl;
 	cout << "4. ALGORITMO DE EUCLIDES" <<endl;
 	cout << "5. salir" <<endl;
 	cout << "Ingrese opcion" <<endl;
@@ -191,5 +192,6 @@ main ()
 		}
 	} while (opcion!=5);
 
-
 }
+
+//Ã‚Â© Todos los derechos reservados
