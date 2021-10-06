@@ -1,7 +1,7 @@
-#INDUCCION-MATEMATICAS
+# INDUCCION-MATEMATICAS
 Proyecto 2 | Programa en c++ | *Induccion matematicas*
 
-#
+___
 //Project created by Kevin Ramirezz
 
 
@@ -17,4 +17,3 @@ Proyecto 2 | Programa en c++ | *Induccion matematicas*
 - MÁXIMO COMUN DIVISOR
 - ALGORITMO DE LA DIVISIÓN
 - ALGORITMO DE EUCLIDES
-
